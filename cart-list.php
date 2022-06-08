@@ -34,7 +34,7 @@ if(!empty($pKeys)) {
             <tr>
                 <th scope="col"><i class="fas fa-trash-alt"></i></th>
                 <th scope="col">Flower</th>
-                <th scope="col">品名</th>
+                <th scope="col">商品名稱</th>
                 <th scope="col">Price</th>
                 <th scope="col">Quatity</th>
                 <th scope="col">Total</th>
